@@ -1,0 +1,1 @@
+python DTL.py --weights best-1280.pt  --conf 0.25 --class 0 2 --save-txt --img-size 1280  --agnostic-nms --no-trace --source inference/imgs --BBox3D --ShowBirdeyeView --DoPos --view-img
